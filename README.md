@@ -1,1 +1,2 @@
-# express-reading-list-with-auth-starter
+
+# Express Reading List with Authentication Starter
